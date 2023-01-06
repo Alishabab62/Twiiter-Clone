@@ -304,6 +304,10 @@
     font-weight: 700;
     font-size: 15px;
 }
+.tweet #tweet-user svg{
+    height: 15px;
+    width: 15px;
+}
 .tweet #tweet-username{
     color: rgb(83, 100, 113);
     font-size: 15px;
@@ -444,4 +448,8 @@ bottom: 0px;
     font-weight: 400;
     margin-top: 5px;
     line-height: 20px;
+}
+.profile-suggestion-container .profile-box .user-name svg{
+    height: 15px;
+    width: 15px;
 }
