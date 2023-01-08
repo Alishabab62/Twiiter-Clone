@@ -18,6 +18,7 @@
     width: 600px;
     margin-left: 75px;
     margin-top: -10px;
+    min-width: 600px;
 }
 
 .header {
